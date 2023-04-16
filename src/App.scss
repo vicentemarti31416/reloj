@@ -1,0 +1,16 @@
+.watch__container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    align-items: center;
+    justify-content: center;
+}
+
+.clock__container {
+    padding: 7rem;
+    border-radius: 50%;
+    background-color: #ccc;
+}
+
