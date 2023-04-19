@@ -24,3 +24,5 @@ export default function DigitalClock() {
         </div>
     )
 }
+
+// Nota: esta aberración es sólo por pasar el tiempo, don't panic :)
